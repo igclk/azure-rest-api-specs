@@ -23,7 +23,7 @@
                 {
                   "$id": "1",
                   "CommandLine": "docker run --privileged",
-                  "Type": "process"
+                  "Type": "process1"
                 }
               ],
               "extendedProperties": {
