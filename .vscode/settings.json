@@ -23,5 +23,10 @@
   "typescript.tsdk": "node_modules\\typescript\\lib",
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#063604",
+    "titleBar.activeBackground": "#084C06",
+    "titleBar.activeForeground": "#EFFEEF"
   }
 }
